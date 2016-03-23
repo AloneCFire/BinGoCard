@@ -5,7 +5,7 @@ Pure css loading animations.[Live Demos](http://alonecfire.github.io/BinGoCard/b
 1. Import:
 
 ```html
-<link rel="stylesheet" href="CSS/base.css"> 
+<link rel="stylesheet" href="CSS/bGCbase.css"> 
 <script src="js/binGoCard.js"></script>
 ```
 
