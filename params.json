@@ -1,0 +1,6 @@
+{
+  "name": "AloneCFire.github.io",
+  "tagline": "A Simple BinGoCard Game",
+  "body": "Pure css loading animations.[Live Demos](http://AloneCFire.github.io/BinGoCard)  \r\n\r\n# Basic Usage\r\n\r\n1. Import:\r\n\r\n```html\r\n<link rel=\"stylesheet\" href=\"CSS/base.css\"> \r\n<script src=\"js/binGoCard.js\"></script>\r\n```\r\n\r\n2.This Code from a book(【JavaScript基础教程（第8版）】)\r\n  I get some simple changes,and will update this game. \r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
