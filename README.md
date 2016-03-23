@@ -1,6 +1,6 @@
 Pure css loading animations.[Live Demos]
 
-(http://AloneCFire.github.io/binGoCard)  
+(BinGoCard/binGoCard.html)  
 
 # Basic Usage
 
